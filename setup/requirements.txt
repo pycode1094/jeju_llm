@@ -1,0 +1,36 @@
+# Required packages for AI agent development
+openai>=1.0.0
+python-dotenv>=1.0.0
+streamlit>=1.25.0
+gradio>=3.50.0
+fastapi>=0.100.0
+uvicorn>=0.20.0
+requests>=2.28.0
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Data visualization (for 03강)
+plotly>=5.15.0
+
+# Financial data (for stock analysis)
+yfinance>=0.2.0
+
+# Web development and UI
+jinja2>=3.1.0
+aiofiles>=23.0.0
+
+# Data processing
+python-multipart>=0.0.6
+pydantic>=2.0.0
+
+# PDF processing
+pymupdf>=1.23.0
+
+# Logging and utilities
+colorama>=0.4.6
+rich>=13.0.0
+tqdm>=4.65.0
+tabulate>=0.9.0
+openpyxl>=3.1.0
