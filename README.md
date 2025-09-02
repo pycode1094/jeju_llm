@@ -6,15 +6,22 @@
 
 ## 🚀 **즉시 시작하기**
 
-### 📋 **준비사항**
+### 🌟 **방법 1: Google Colab (가장 쉬움!)**
+1. [Google Colab](https://colab.research.google.com/) 접속
+2. GitHub에서 `00_colab_setup.ipynb` 파일 열기
+3. 셀들을 순서대로 실행
+4. API 키 입력 후 실습 시작!
+
+### 💻 **방법 2: 로컬 설치 (Windows)**
+#### 📋 **준비사항**
 - ✅ Python 설치됨 (3.8 이상)
 - ✅ VS Code 설치됨
 - ✅ 바탕화면에 `jeju_llm` 폴더 생성됨
 
-### 🎯 **시작 방법 (한 번만)**
+#### 🎯 **시작 방법 (한 번만)**
 ```
 📁 jeju_llm 폴더에서
-📄 start_education.bat 더블클릭
+📄 install_environment.bat 더블클릭
 ```
 
 ### 🔄 **자동으로 처리되는 것들**
